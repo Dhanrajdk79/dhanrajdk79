@@ -37,7 +37,7 @@ Linux, Bash, Git, YAML
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/dhanraj-kshirsagar-dk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F%2BDSq7BlQp6twuy6M0KMdQ%3D%3D
+- 💼👨‍💼 **LinkedIn:** [Dhanraj Kshirsagar](https://www.linkedin.com/in/dhanraj-kshirsagar-dk)  
 - 📧 Email: dhanarajkshirsagar35@gmail.com
 
 ---
